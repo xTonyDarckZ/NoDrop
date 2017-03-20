@@ -1,0 +1,8 @@
+name: NoDrops
+author: xTonyDarckZ
+description: "The players can't drop items"
+version: 1.0
+api: [1.11.0, 2.0.0, 2.1.0, 3.0.0-ALPHA1, 3.0.0-ALHA2, 3.0.0-ALPHA3]
+main: tony\NoDrops\Main
+
+   
